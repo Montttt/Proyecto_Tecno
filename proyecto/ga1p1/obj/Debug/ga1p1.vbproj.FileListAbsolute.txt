@@ -1,0 +1,42 @@
+c:\users\pc12lab4\documents\visual studio 2015\Projects\ga1p1\ga1p1\bin\Debug\ga1p1.exe.config
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\bin\Debug\ga1p1.exe
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\bin\Debug\ga1p1.pdb
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\bin\Debug\ga1p1.xml
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.vbprojResolveAssemblyReference.cache
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.admin.resources
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.cli.resources
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.Form1.resources
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.Resources.resources
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.sec.resources
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.vbproj.GenerateResource.Cache
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.exe
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.xml
+C:\Users\PC12LAB4\Documents\Visual Studio 2015\Projects\ga1p1\ga1p1\obj\Debug\ga1p1.pdb
+E:\ga1p1\ga1p1\bin\Debug\ga1p1.exe.config
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.exe
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.xml
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.pdb
+E:\ga1p1\ga1p1\bin\Debug\ga1p1.exe
+E:\ga1p1\ga1p1\bin\Debug\ga1p1.pdb
+E:\ga1p1\ga1p1\bin\Debug\ga1p1.xml
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.vbprojResolveAssemblyReference.cache
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.admin.resources
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.cli.resources
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.Form1.resources
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.Resources.resources
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.sec.resources
+E:\ga1p1\ga1p1\obj\Debug\ga1p1.vbproj.GenerateResource.Cache
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\bin\Debug\ga1p1.exe.config
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.exe
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.xml
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.pdb
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\bin\Debug\ga1p1.exe
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\bin\Debug\ga1p1.pdb
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\bin\Debug\ga1p1.xml
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.vbprojResolveAssemblyReference.cache
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.admin.resources
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.cli.resources
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.Form1.resources
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.Resources.resources
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.sec.resources
+C:\Users\PC12LAB4\Downloads\ga1p1\ga1p1\obj\Debug\ga1p1.vbproj.GenerateResource.Cache
